@@ -1,0 +1,13 @@
+{
+    "name": "redforks/heroicons",
+    "description": "Simple package of heroicons",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "forks",
+            "email": "redforks@gmail.com"
+        }
+    ],
+    "require": {}
+}
